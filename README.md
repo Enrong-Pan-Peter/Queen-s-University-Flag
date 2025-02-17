@@ -1,4 +1,4 @@
-# Queen-s-University-Flag
+# Queen's University FLag
 
 ## Overview
 This project is a Java-based implementation that draws the Queen's University Tricolor Flag using RGB values and a custom `RGBImage` class. The flag consists of three vertical stripes in blue, gold, and red, each occupying one-third of the image's width.
